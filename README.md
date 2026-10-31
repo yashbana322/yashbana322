@@ -34,26 +34,6 @@
 
 ---
 
-### Achievements
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="65" alt="Quickdraw" title="Quickdraw" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="65" alt="YOLO" title="YOLO" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="65" alt="Pull Shark" title="Pull Shark" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="65" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="65" alt="Galaxy Brain" title="Galaxy Brain" />
-</p>
-
-<p align="center">
-  <sub>Quickdraw &bull; YOLO &bull; Pull Shark &bull; Pair Extraordinaire &bull; Galaxy Brain</sub>
-</p>
-
----
-
 ### GitHub Stats & Streak
 
 <div align="center">
