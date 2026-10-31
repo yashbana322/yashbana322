@@ -8,15 +8,6 @@
   <em>"Trying weird ideas. My goal is to build something great enough that people remember me for it."</em>
 </p>
 
-<p align="center">
-  <a href="https://github.com/yashbana322">
-    <img src="https://komarev.com/ghpvc/?username=yashbana322&style=flat-square&color=blueviolet" alt="Profile Views" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-Building%20things%20nobody%20asked%20for-success?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Wallet-Broke-critical?style=flat-square" alt="Broke" />
-  <img src="https://img.shields.io/badge/Geyser-Left%20Running-important?style=flat-square" alt="Geyser" />
-</p>
-
 </div>
 
 ---
