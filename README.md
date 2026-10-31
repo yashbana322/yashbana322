@@ -18,7 +18,7 @@
 - TypeScript, React, Node, and a suspicious number of console.logs.
 - Currently building things nobody asked for.
 - I'm broke as well.
-- Ahhhhhhhh I forgot to turn off my geyser.
+- Ahhhhhhhh I forgot to turn off my geyser!!!.
 
 ---
 
